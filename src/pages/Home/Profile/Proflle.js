@@ -1,14 +1,14 @@
 import React from 'react';
+import img from '../../../assests/portfolio/PortFolio.png'
 import Typical from 'react-typical';
 import { FaFacebookF,FaGithub,FaLinkedin,FaWhatsapp } from "react-icons/fa";
 const Proflle = () => {
     return (
         <div className=''>
         <div className='bg-slate-700 py-12 px-4 text-white text-center mx-auto items-center justify-center'>
-        <img className='w-full rounded-xl' alt="" />
-        <h2 className='text-gray-100 text-white font-bold text-3xl my-2'>Md Salah Uddin</h2>
+        <img className='w-96 mx-auto rounded' src={img} alt="" />
+        <h2 className='text-white font-bold text-3xl my-2'>Md Salah Uddin</h2>
         <p className='text-1xl text-white'>
-
             <Typical
             loop={Infinity}
             wrapper='p'
@@ -22,7 +22,6 @@ const Proflle = () => {
             </p>
         <p className='mt-4'>Email: salahuddinahmed8544@gmail.com</p>
         <div>
-            
            <div className='flex items-center justify-center space-x-5 text-2xl my-4'>
            <a target={'_blank'} href={'https://web.facebook.com/hmsalauddin.ahmed.5/'}><FaFacebookF className='text-yellow'></FaFacebookF></a>
 
