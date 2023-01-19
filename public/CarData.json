@@ -1,0 +1,20 @@
+[
+    {   
+        "id":"1",
+        "title":"Cybersecurity and Computer Science",
+        "img":"https://f.hubspotusercontent10.net/hubfs/6448316/cybersecurity-computer-science.jpg",
+        "description":"Computer science involves the broad study of computers and computational problems, whereas cybersecurity is a more specialized field that deals with computer and information security. Computer science and cybersecurity are related fields in that cybersecurity is a specific branch of computer science. Cybersecurity is a specific branch of computer science that focuses on protecting computer and digital systems. In industry practice, cybersecurity professionals tend to protect company systems, software, and data from online threats. Cybersecurity professionals learn domain-specific skills and knowledge to prevent breaches. Some day-to-day tasks might look like:"
+    },
+    {
+        "id":"2",
+        "title":"Computer science courses",
+        "img":"https://www.zdnet.com/a/img/resize/02c933733061a2e3d1bcf6b7c539ec4a3fe4c502/2021/07/19/e28889a7-7c41-4dd8-9899-2ee60d1850e2/computer-science-course-overview-shutterstock-1377112199.jpg?auto=webp&width=1280",
+        "description":"The expansive computer science field explores software and computer systems and their problem-solving power. Computer science curriculums vary considerably depending on the school, program, and course type and level, but prospective students should expect to see a healthy dose of math courses, such as statistics, calculus, probabilities, and discrete math. As a result, the training can challenge students in their pursuit of completing an online computer science degree, certificate, or bootcamp. Yet, this also helps make the training and the acquired skill set specialized and valuable, leading to some very promising computer science jobs. "
+    },
+    {
+        "id":"3",
+        "title":"IT vs Computer Science classes",
+        "img":"https://storage-prtl-co.imgix.net/endor/articles/2894/images/1604927159_shutterstock_415759240.jpg?w=800&h=532&auto=format,compress&q=40",
+        "description":"Each university needs to create a curriculum based on the general policies of the government in that country. This is why not all IT or CS study programmes are the same. Still, you’ll notice that many courses are the same — or at least very similar — with small differences in their title or focus. Whether you’re analysing algorithms or trying to figure out why a hard-drive isn’t recognised by the operating systems, these skills will always come in handy. Knowing the theory is one thing, but being able to apply it by making connections and discovering how unrelated elements create a bug or error — that’s where true creativity and ingenuity stand out."
+    }
+]

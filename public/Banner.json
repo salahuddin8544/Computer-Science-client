@@ -1,0 +1,26 @@
+[
+    {   
+        "id":"1",
+        "title":"Welcome to the Department of Computer Science",
+        "img":"https://www.mooc.org/hubfs/cybersecurity-computer-science.jpg",
+        "description":"Our program imparts a strong background in the fundamentals of computer science and engineering, so that our students are prepared to enter a diverse and quickly changing job market. We also offer a wide array of upper level classes for students to learn from our faculty experts in databases, artificial intelligence, robotics, software engineering, algorithms, networking and high performance computing. We connect students with researchers and real-world clients so that they can hit the ground running after graduation, whether they pursue a career in industry or academia.",
+        "prev":3,
+        "next":2
+    },
+    {
+        "id":"2",
+        "title":"What to expect when studying computer science",
+        "img":"https://images2.content-hci.com/commimg/myhotcourses/blog/post/myhc_89683.jpg",
+        "description":"It has become somewhat of a truism to speak about the unstoppable advance of technology and how enmeshed it has become in our everyday lives. However, it is undeniable that this has seen the growth of the technology sector, the development of related disciplines and the creation of new types of work.",
+        "prev":1,
+        "next":3
+    },
+    {
+        "id":"3",
+        "title":"5 Study Tips that Will Make You a Successful Computer Science Student",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWphZmlHK3dzZ0MZf3okiglPIfNPkdesHQL0Z461L93ne4TS_J3Igyu_nr8m36ZMMINic&usqp=CAU",
+        "description":"Most of the time it’s not about asking yourself what should I learn as a Computer Science student, but more about how to do it. So here are some Computer Science study tips: all courses in this field rock, but they won’t cover all the skills you might need in a job. For example, if you’re planning to go into software development, you might learn a considerable amount of programming languages, but you may need to go beyond that for work.",
+        "prev":2,
+        "next":1
+    }
+]
